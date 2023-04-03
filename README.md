@@ -40,15 +40,29 @@ o aluno ou responsável informa o título do livro que deseja emprestar e a aten
 
 REGRAS DE NEGÓCIO:
 Sistema de Empréstimo:
+
 RN01: Para emprestar qualquer livro na biblioteca o usuário deverá estar registrado 
+
 RN02: O atendente deverá realizar o cadastro de usuário. 
+
 RN03: Os livros no acervo serão cadastrados pela bibliotecária.
+
 RN04: O limite máximo de livros disponibilizados para empréstimo deverá ser no mínimo 5 livros por usuário.
+
 RN05:  Ao solicitar o empréstimo, o usuário terá no mínimo duas semanas e no máximo um mês sobre uso do(s) livro(s)
+
 RN06: Para usuários com atrasos na devolução, não poderá fazer novos empréstimos.  
+
 RN07: A renovação dos livros sob uso do usuário deverá estar dentro do prazo de devolução.
+
 RN08: O atendente fará renovação dos livros emprestados para o usuário ou seu responsável, no mesmo período do empréstimo anterior. 
+
 RN09: O atendente irá verificar se o livro está disponível no sistema 
+
 RN10: O atendente fará reserva dos livros solicitados já emprestados aos usuários.
+
 RN11: O atendente fará registro dos livros que não constam no acervo indicado pelo usuário para serem adquiridos. 
-RN12: A bibliotecária fará o relatório dos livros mais emprestados, os usuários com livros em atraso de entrega, os usuários que fizeram renovações, as reservas realizadas, livros para serem adicionados ao acervo.
+
+RN12: A bibliotecária fará o relatório dos livros mais emprestados, os usuários com livros em atraso de entrega, os usuários que fizeram renovações, as 
+reservas realizadas, livros para serem adicionados ao acervo.
+
