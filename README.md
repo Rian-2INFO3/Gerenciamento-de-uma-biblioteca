@@ -1,9 +1,7 @@
-# Gerenciamento-de-uma-biblioteca
+# GERENCIAMENTO DE UMA BIBLIOTECA
+
 
 ALUNOS: RIAN SCHMETCKA, MATHEUS RAFAEL,   MARCO ANTONIO 
-
-
-# GERENCIAMENTO DE UMA BIBLIOTECA
 
 <h1 align="center">Situação problema</h1>
 
