@@ -3,9 +3,9 @@
 ALUNOS: RIAN SCHMETCKA, MATHEUS RAFAEL,   MARCO ANTONIO 
 
 
-# Nome do Projeto 
-ou
-<h1 align="center">Nome do Projeto</h1>
+# GERENCIAMENTO DE UMA BIBLIOTECA
+
+<h1 align="center">Situação problema</h1>
 
 
 
@@ -29,8 +29,8 @@ Essa solução é simples, fácil de implementar e não requer investimentos adi
 
 
 
+<h1 align="center">Descrição da Proposta</h1>
 
-Descrição da Proposta
 
 Com base nas informações no item anterior, feito o levantamento de toda situação problema é necessário a criação de uma software para gerenciamento da biblioteca.
 
@@ -41,8 +41,9 @@ Após esse cadastro de cliente e do responsável é liberado para que o alunos e
 
 o aluno ou responsável informa o título do livro que deseja emprestar e a atendente consulta ao sistema para verificar a disponibilidade do livro pois se o livro estiver disponível o atendente registra o empréstimo e entrega o livro para o aluno ou responsável já no acaso se o livro não estiver disponível a atendente registra  o pedido de reserva do livro e informa ao aluno ou responsável a previsão da disponibilidade a atendente também informa a data de devolução do livro e informa ao aluno ou responsável e quando o aluno for devolver o livro a atendente verifica se houve atraso na devolução se o livro for devolvido dentro do prazo a atendente registra a devolução no sistema   se o livro for devolvido com atraso a atendente calcula a multa devida e registra a devolução  no sistema a atendente também atualiza o status do livro no sistema indicando se está disponível ou não para empréstimo o software também deve permitir a geração de relatórios  de empréstimos e devoluções multas e reservas para facilitar o controle de gestão da biblioteca.
 
-REGRAS DE NEGÓCIO:
-Sistema de Empréstimo:
+
+<h1 align="center">REGRAS DE NEGÓCIO  E Sistema de Empréstimos</h1>
+
 
 RN01: Para emprestar qualquer livro na biblioteca o usuário deverá estar registrado 
 
