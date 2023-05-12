@@ -68,3 +68,35 @@ RN11: O atendente fará registro dos livros que não constam no acervo indicado 
 RN12: A bibliotecária fará o relatório dos livros mais emprestados, os usuários com livros em atraso de entrega, os usuários que fizeram renovações, as 
 reservas realizadas, livros para serem adicionados ao acervo.
 
+<h1 align="center">Requisitos Funcionais </h1>
+
+
+Entrada
+
+RF001: Registro de Usuário: O sistema deve permitir o cadastro de usuários no sistema Dados Necessários: Nome, email, telefone, cpf, Responsável, Endereço  Usuários: Administrador/Bibliotecário
+
+
+RF002: Cadastro de funcionário o sistema deve permitir o cadastro de funcionários no sistema Dados Necessários: Nome, email, telefone, cpf, e senha de login  Usuários: Administrador
+
+RF003: Cadastro de Livro: O sistema deve permitir verificar se há pendências para a validação de empréstimos ou devoluções, Dados Necessários: Nome, email, telefone, cpf, Responsável, Endereço  Usuários: Administrador/Bibliotecário
+
+
+Processamento 
+
+RF004: Login : O sistema deve permitir  a autenticação de dados  Dados Necessários: Email, Senha,  Usuários: Administrador/Bibliotecário/
+
+RF006:Empréstimo : O sistema deve permitir verificar se há pendências para a validação de empréstimos ou devoluções, Dados Necessários: Nome, email, telefone, cpf, Responsável, Endereço  Usuários: Administrador/Bibliotecário
+RF007:Devolução : O sistema deve permitir verificar se há pendências para a validação de empréstimos ou devoluções, Dados Necessários: Nome, email, telefone, cpf, Responsável, Endereço  Usuários: Administrador/Bibliotecário
+
+RF008: Multa : O sistema deve permitir verificar se há pendências para a validação de empréstimos ou devoluções, Dados Necessários: Nome, email, telefone, cpf, Responsável, Endereço  Usuários: Administrador/Bibliotecário
+
+Saída: 
+
+
+RF009: Relatório de Empréstimo : O sistema deve permitir emitir os relatórios de empréstimos de livros e quantidade emprestada., Dados Necessários: data inicial, data final  Usuários: Administrador/Bibliotecário
+
+RF010: Relatório de Empréstimos atrasados: O sistema deve permitir emitir os relatórios de empréstimos de livros atrasados  e quantidade emprestada, Dados Necessários: data inicial, data final  Usuários: Administrador/Bibliotecário
+
+RF011: Relatório de Clientes : O sistema deve permitir emitir os relatórios de Clientes fazendo a verificação de  pendências para a validação de empréstimos ou devoluções, e Muitas Dados Necessários: Nome completo  Usuários: Administrador/Bibliotecário
+
+
