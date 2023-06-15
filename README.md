@@ -148,5 +148,10 @@ R.N.F. 07- Autenticação: Para realizar o acesso ao sistema é necessário ter 
 R.N.F. 08- Web Server: O servidor web utilizado será o Apache Tomcat, nas versões mais atualizadas. R.N.F. 08- Níveis de segurança: O software terá diferentes tipos de acesso para cada tipo de login, tendo as permissões ideais a função de cada um.
 
 
+# Conclusão
+
+Bom todos os sitemas  desempenham um papel fundamental em assegurar que o sistema atenda às necessidades do usuário e seja capaz de operar conforme o planejado.
+
+Como desenvolvedores desse projeto é  é crucial dedicar uma consideração a todos os requisitos não ao projetar e desenvolver um sistema. Eles são essenciais para garantir que o sistema seja capaz de cumprir as expectativas do usuário e função de acordo com suas finalidades.
 
 
