@@ -83,6 +83,10 @@ RF003: Cadastro de Livro: O sistema deve permitir verificar se há pendências p
 
 Processamento 
 
+R.F. 01 - Autenticação de usuário: tem como propósito autenticar o acesso ao sistema, verificando se o usuário pode acessá-lo e, caso possa, o direcionando para a página principal de seu perfil de acesso.
+Dados necessários: login, senha, nível de permissão.
+Usuários: todos os níveis de usuário.
+
 RF004: Login : O sistema deve permitir  a autenticação de dados  Dados Necessários: Email, Senha,  Usuários: Administrador/Bibliotecário/
 
 RF006:Empréstimo : O sistema deve permitir verificar se há pendências para a validação de empréstimos ou devoluções, Dados Necessários: Nome, email, telefone, cpf, Responsável, Endereço  Usuários: Administrador/Bibliotecário
