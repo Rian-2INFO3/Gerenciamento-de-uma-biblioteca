@@ -45,19 +45,19 @@ FIXME: FORMATAR CONFORME MODELO
 
 - **RN01:** Para emprestar qualquer livro na biblioteca o usuário deverá estar registrado. 
 - **RN02:** O atendente deverá realizar o cadastro de usuário. 
-- RN03: Os livros no acervo serão cadastrados pela bibliotecária.
-- RN04: Cada usuário poderá emprestar um máximo de 5 livros.
-- RN05: Cada livro poderá ficar por 1 mês com o usuário.
+- **RN03:** Os livros no acervo serão cadastrados pela bibliotecária.
+- **RN04:** Cada usuário poderá emprestar um máximo de 5 livros.
+- **RN05:** Cada livro poderá ficar por 1 mês com o usuário.
 
 TODO: CRIAR UMA REGRA DE RENOVAÇÃO.
 
-- RN06: Usuários com livros em atraso não poderão fazer novos empréstimos. 
-- RN07: Empréstimos de livros em atraso na devolução não poderão ser renovados.
-- RN08: O atendente fará renovação dos livros emprestados para o mesmo período do empréstimo anterior. 
-- RN09: O atendente irá verificar se o livro está disponível no sistema. 
-- RN10: O atendente fará reserva dos livros solicitados que não estão emprestados no momento.
-- RN11: O atendente fará registro de indicações de livros que não constam no acervo, para serem adquiridos. 
-- RN12: A bibliotecária fará o relatório dos livros mais emprestados, os usuários com livros em atraso de entrega, os usuários que fizeram renovações, as reservas realizada e livros para serem adicionados ao acervo.
+- **RN06:** Usuários com livros em atraso não poderão fazer novos empréstimos. 
+- **RN07:** Empréstimos de livros em atraso na devolução não poderão ser renovados.
+- **RN08:** O atendente fará renovação dos livros emprestados para o mesmo período do empréstimo anterior. 
+- **RN09:** O atendente irá verificar se o livro está disponível no sistema. 
+- **RN10:** O atendente fará reserva dos livros solicitados que não estão emprestados no momento.
+- **RN11:** O atendente fará registro de indicações de livros que não constam no acervo, para serem adquiridos. 
+- **RN12:** A bibliotecária fará o relatório dos livros mais emprestados, os usuários com livros em atraso de entrega, os usuários que fizeram renovações, as reservas realizada e livros para serem adicionados ao acervo.
 
 TODO: MULTA POR ATRASO?
 
@@ -74,8 +74,12 @@ FIXME: RENUMERAR
 - **RF001: Registro de Usuário:** O sistema deve permitir o cadastro de usuários no sistema.
     - **Dados Necessários:** Nome, email, telefone, CPF, Responsável, Endereço 
     - **Usuários:** Atendente.
-- RF002: Cadastro de funcionário: O sistema deve permitir o cadastro de funcionários no sistema Dados Necessários: Nome, email, telefone, CPF, e senha.  Usuários: Administrador
-- RF003: Cadastro de Livro: O sistema deve permitir verificar se há pendências para a validação de empréstimos ou devoluções. Dados Necessários: Nome, email, telefone, cpf, Responsável, Endereço Usuários: Bibliotecário
+- **RF002: Cadastro de funcionário:** O sistema deve permitir o cadastro de funcionários no sistema 
+    - **Dados Necessários:** Nome, email, telefone, CPF, e senha.  
+    - **Usuários:** Administrador
+- **RF003: Cadastro de Livro:** O sistema deve permitir verificar se há pendências para a validação de empréstimos ou devoluções. 
+ - **Dados Necessários:** Nome, email, telefone, cpf, Responsável, Endereço 
+ - **Usuários:** Bibliotecário
 
 ## PROCESSAMENTO 
 
