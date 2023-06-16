@@ -78,8 +78,8 @@ FIXME: RENUMERAR
     - **Dados Necessários:** Nome, email, telefone, CPF, e senha.  
     - **Usuários:** Administrador
 - **RF003: Cadastro de Livro:** O sistema deve permitir verificar se há pendências para a validação de empréstimos ou devoluções. 
- - **Dados Necessários:** Nome, email, telefone, cpf, Responsável, Endereço 
- - **Usuários:** Bibliotecário
+    - **Dados Necessários:** Nome, email, telefone, cpf, Responsável, Endereço 
+    - **Usuários:** Bibliotecário
 
 ## PROCESSAMENTO 
 
